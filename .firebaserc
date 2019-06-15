@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "sveltefiredash"
+  },
+  "targets": {
+    "fullstackvoyage": {
+      "hosting": {
+        "svelte-examples": [
+          "sveltefiredash"
+        ]
+      }
+    }
+  }
+}
